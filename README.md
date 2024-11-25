@@ -4,3 +4,5 @@ This is a web crawling tool to scrape information from https://www.gintarine.lt/
 
 All functionality is accessible through main.py!
 
+To install project: pip install alessandro-c-mod1-atsiskaitymas==0.1.0
+

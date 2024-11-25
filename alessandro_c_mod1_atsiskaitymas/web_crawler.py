@@ -43,7 +43,7 @@ def crawl_website(url, output_format, data_container):
 def save_to_csv(data, filename="products.csv"):
     if data:
         keys = data[0].keys()
-        with open(filename, mode='w', newline='') as file:
+        with open(filename, mode='w',encoding='utf-8', newline='') as file:
             writer = csv.DictWriter(file, fieldnames=keys)
             writer.writeheader()
             writer.writerows(data)

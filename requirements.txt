@@ -9,3 +9,6 @@ requests           2.32.3
 setuptools         75.5.0
 soupsieve          2.6
 urllib3            2.2.3
+wheel              0.45.1
+twine              5.1.1
+

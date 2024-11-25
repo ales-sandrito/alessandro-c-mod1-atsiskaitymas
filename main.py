@@ -6,5 +6,5 @@ if __name__ == "__main__":
     save_to_csv(data)
 
   #DICT
-    # data = web_crawler(url="https://www.gintarine.lt/maistas-ir-papildai-sportininkams", timeout=60, output_format="dict")
-    # print(data)
+  # data = web_crawler(url="https://www.gintarine.lt/maistas-ir-papildai-sportininkams", timeout=60, output_format="dict")
+  # print(data)
